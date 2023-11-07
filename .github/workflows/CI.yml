@@ -51,3 +51,4 @@ jobs:
       run: |
         docker push ${{ secrets.DOCKERHUB_USERNAME }}/p2gps:order
         docker push ${{ secrets.DOCKERHUB_USERNAME }}/p2gps:web
+#Prueba de la contraseña
