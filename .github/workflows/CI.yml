@@ -51,4 +51,4 @@ jobs:
       run: |
         docker push ${{ secrets.DOCKERHUB_USERNAME }}/p2gps:order
         docker push ${{ secrets.DOCKERHUB_USERNAME }}/p2gps:web
-#Actualizada con el cor
+#Actualizada la contraseña de docker por una distinta a la de github, solucionado el error 
