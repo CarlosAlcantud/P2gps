@@ -50,5 +50,5 @@ jobs:
     - name: Push a DockerHub
       run: |
         docker push carlosalcantud/p2gps:order
-        docker push carlosalcantud/p2gps:web
+        docker push carlosalcantud/p2gps:web 
 #Actualizada la contraseña de docker por una distinta a la de github, solucionado el error 
